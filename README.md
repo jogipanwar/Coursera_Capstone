@@ -1,2 +1,4 @@
 # Coursera_Capstone
-Capstone Proect for IBM Data Science 
+Capstone Project for IBM Data Science 
+
+Datails will be appended as i further progress
